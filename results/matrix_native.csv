@@ -1,0 +1,14 @@
+case,dignaga,dharmakirti,nyaya,navya_nyaya,jain,carvaka
+smoke-fire,valid,valid,valid,valid,valid,invalid
+produced-impermanent,valid,valid,valid,valid,valid,invalid
+audible-eternal,invalid,invalid,invalid,invalid,invalid,invalid
+knowable-impermanent,invalid,invalid,invalid,invalid,invalid,invalid
+produced-eternal,invalid,invalid,invalid,invalid,invalid,invalid
+knowable-nameable,n/a,invalid,valid,valid,n/a,invalid
+earth-smell,n/a,invalid,valid,valid,n/a,invalid
+krttika-rohini,invalid,invalid,invalid,invalid,valid,invalid
+tatputratva,valid,invalid,valid,invalid,invalid,invalid
+existence-momentary,n/a,valid,invalid,invalid,invalid,invalid
+hill-smoke-from-fire,invalid,invalid,invalid,invalid,invalid,invalid
+no-pot,valid,valid,n/a,n/a,n/a,invalid
+fire-cold,invalid,invalid,invalid,invalid,invalid,invalid

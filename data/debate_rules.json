@@ -1,0 +1,16 @@
+{
+  "_note": "Grounds on which a debater loses. Nyaya lists 22 nigrahasthana; Dharmakirti's Vadanyaya reduces them to two. Verify the list and its ordering against the Nyayasutra (5.2) and the Vadanyaya.",
+  "nyaya_nigrahasthana": [
+    "pratijnahani", "pratijnantara", "pratijnavirodha", "pratijnasamnyasa",
+    "hetvantara", "arthantara", "nirarthaka", "avijnatartha", "apartha",
+    "apraptakala", "nyuna", "adhika", "punarukta", "ananubhasana", "ajnana",
+    "apratibha", "viksepa", "matanujna", "paryanuyojyopeksana",
+    "niranuyojyanuyoga", "apasiddhanta", "hetvabhasa"
+  ],
+  "dharmakirti_vadanyaya": [
+    "asadhanangavacana",
+    "adosodbhavana"
+  ],
+  "jain": [],
+  "_todo": "Add Jain and Mimamsa debate rules once sources are checked."
+}

@@ -1,0 +1,576 @@
+{
+  "smoke-fire": {
+    "dignaga": {
+      "valid": true,
+      "label": "hetu-cakra case 8: valid",
+      "why": [
+        "pakshadharmata, sapaksa-sattva and vipaksa-asattva all satisfied"
+      ]
+    },
+    "dharmakirti": {
+      "valid": true,
+      "label": "karya hetu",
+      "why": [
+        "connection by causation (tadutpatti)"
+      ]
+    },
+    "nyaya": {
+      "valid": true,
+      "label": "valid (anvaya-vyatireki)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": true,
+      "label": "valid (anvaya-vyatireki)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "jain": {
+      "valid": true,
+      "label": "anyathanupapanna",
+      "why": [
+        "the reason cannot be otherwise than with the probandum"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "produced-impermanent": {
+    "dignaga": {
+      "valid": true,
+      "label": "hetu-cakra case 2: valid",
+      "why": [
+        "pakshadharmata, sapaksa-sattva and vipaksa-asattva all satisfied"
+      ]
+    },
+    "dharmakirti": {
+      "valid": true,
+      "label": "svabhava hetu",
+      "why": [
+        "connection by identity (tadatmya)"
+      ]
+    },
+    "nyaya": {
+      "valid": true,
+      "label": "valid (anvaya-vyatireki)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": true,
+      "label": "valid (anvaya-vyatireki)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "jain": {
+      "valid": true,
+      "label": "anyathanupapanna",
+      "why": [
+        "the reason cannot be otherwise than with the probandum"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "audible-eternal": {
+    "dignaga": {
+      "valid": false,
+      "label": "hetu-cakra case 5: uncertain",
+      "why": [
+        "sapaksa=none, vipaksa=none"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "no pratibandha",
+      "why": [
+        "no necessary connection by identity or causation, so the trairupya is only a coincidence"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "anaikantika (asadharana)",
+      "why": [
+        "reason is absent from every sapaksa"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "anaikantika (asadharana)",
+      "why": [
+        "reason is absent from every sapaksa"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "knowable-impermanent": {
+    "dignaga": {
+      "valid": false,
+      "label": "hetu-cakra case 1: uncertain",
+      "why": [
+        "sapaksa=all, vipaksa=all"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "vipaksa-asattva fails",
+      "why": [
+        "vipaksa=all"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (all)"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (all)"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "produced-eternal": {
+    "dignaga": {
+      "valid": false,
+      "label": "hetu-cakra case 4: contradictory",
+      "why": [
+        "sapaksa=none, vipaksa=all"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "vipaksa-asattva fails",
+      "why": [
+        "vipaksa=all"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "viruddha",
+      "why": [
+        "the reason pervades the absence of the probandum"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "viruddha",
+      "why": [
+        "the reason pervades the absence of the probandum"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "knowable-nameable": {
+    "dignaga": {
+      "valid": null,
+      "label": "outside the wheel",
+      "why": [
+        "the wheel presupposes instances in both sapaksa and vipaksa"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "no pratibandha",
+      "why": [
+        "no necessary connection by identity or causation, so the trairupya is only a coincidence"
+      ]
+    },
+    "nyaya": {
+      "valid": true,
+      "label": "valid (kevalanvayi)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": true,
+      "label": "valid (kevalanvayi)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "jain": {
+      "valid": null,
+      "label": "unannotated",
+      "why": [
+        "necessary_connection not annotated for this case"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "earth-smell": {
+    "dignaga": {
+      "valid": null,
+      "label": "outside the wheel",
+      "why": [
+        "the wheel presupposes instances in both sapaksa and vipaksa"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "no pratibandha",
+      "why": [
+        "no necessary connection by identity or causation, so the trairupya is only a coincidence"
+      ]
+    },
+    "nyaya": {
+      "valid": true,
+      "label": "valid (kevalavyatireki)",
+      "why": [
+        "negative concomitance only, accepted by Nyaya"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": true,
+      "label": "valid (kevalavyatireki)",
+      "why": [
+        "negative concomitance only, accepted by Nyaya"
+      ]
+    },
+    "jain": {
+      "valid": null,
+      "label": "unannotated",
+      "why": [
+        "necessary_connection not annotated for this case"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "krttika-rohini": {
+    "dignaga": {
+      "valid": false,
+      "label": "asiddha",
+      "why": [
+        "reason not established in the subject (fails pakshadharmata)"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "asiddha",
+      "why": [
+        "reason not established in the subject (fails pakshadharmata)"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "asiddha",
+      "why": [
+        "reason not established in the subject"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "asiddha",
+      "why": [
+        "reason not established in the subject"
+      ]
+    },
+    "jain": {
+      "valid": true,
+      "label": "anyathanupapanna",
+      "why": [
+        "the reason cannot be otherwise than with the probandum",
+        "valid despite lacking pakshadharmata: the three characteristics are not required"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "tatputratva": {
+    "dignaga": {
+      "valid": true,
+      "label": "hetu-cakra case 2: valid",
+      "why": [
+        "pakshadharmata, sapaksa-sattva and vipaksa-asattva all satisfied"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "no pratibandha",
+      "why": [
+        "no necessary connection by identity or causation, so the trairupya is only a coincidence"
+      ]
+    },
+    "nyaya": {
+      "valid": true,
+      "label": "valid (anvaya-vyatireki)",
+      "why": [
+        "all five characteristics satisfied"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "sopadhika (vyapti fails)",
+      "why": [
+        "a hidden conditioning factor (upadhi) separates the reason from the probandum"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "existence-momentary": {
+    "dignaga": {
+      "valid": null,
+      "label": "outside the wheel",
+      "why": [
+        "the wheel presupposes instances in both sapaksa and vipaksa"
+      ]
+    },
+    "dharmakirti": {
+      "valid": true,
+      "label": "svabhava hetu",
+      "why": [
+        "connection by identity (tadatmya)"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (all)"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (all)"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "hill-smoke-from-fire": {
+    "dignaga": {
+      "valid": false,
+      "label": "hetu-cakra case 3: uncertain",
+      "why": [
+        "sapaksa=all, vipaksa=some"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "vipaksa-asattva fails",
+      "why": [
+        "vipaksa=some"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (some)"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "anaikantika (savyabhicara)",
+      "why": [
+        "reason occurs in vipaksa (some)",
+        "diagnosis: the failure is due to an upadhi"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "no anyathanupapatti",
+      "why": [
+        "no necessary connection, whatever the three characteristics show"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "no-pot": {
+    "dignaga": {
+      "valid": true,
+      "label": "hetu-cakra case 2: valid",
+      "why": [
+        "pakshadharmata, sapaksa-sattva and vipaksa-asattva all satisfied"
+      ]
+    },
+    "dharmakirti": {
+      "valid": true,
+      "label": "anupalabdhi hetu",
+      "why": [
+        "the object would be perceived if present, and is not"
+      ]
+    },
+    "nyaya": {
+      "valid": null,
+      "label": "outside anumana",
+      "why": [
+        "Nyaya treats absence as cognised by perception (abhava), not by inference"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": null,
+      "label": "outside anumana",
+      "why": [
+        "Nyaya treats absence as cognised by perception (abhava), not by inference"
+      ]
+    },
+    "jain": {
+      "valid": null,
+      "label": "unannotated",
+      "why": [
+        "necessary_connection not annotated for this case"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  },
+  "fire-cold": {
+    "dignaga": {
+      "valid": false,
+      "label": "pakshabhasa",
+      "why": [
+        "thesis contradicted by another pramana"
+      ]
+    },
+    "dharmakirti": {
+      "valid": false,
+      "label": "pakshabhasa",
+      "why": [
+        "thesis contradicted by another pramana"
+      ]
+    },
+    "nyaya": {
+      "valid": false,
+      "label": "badhita",
+      "why": [
+        "thesis contradicted by another pramana"
+      ]
+    },
+    "navya_nyaya": {
+      "valid": false,
+      "label": "badhita",
+      "why": [
+        "thesis contradicted by another pramana"
+      ]
+    },
+    "jain": {
+      "valid": false,
+      "label": "akincitkara",
+      "why": [
+        "thesis contradicted by another pramana"
+      ]
+    },
+    "carvaka": {
+      "valid": false,
+      "label": "anumana not a pramana",
+      "why": [
+        "vyapti cannot be established, since not all instances can be perceived"
+      ]
+    }
+  }
+}

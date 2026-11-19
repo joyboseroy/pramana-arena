@@ -1,0 +1,23 @@
+[
+  {
+    "id": "P1",
+    "text": "Device registry entry: device_7 is classified as category cat_9.",
+    "source": "device registry",
+    "rank": 2,
+    "pramana": "pratyaksa"
+  },
+  {
+    "id": "P2",
+    "text": "Release 17 specification, section 4: in Release 17, every category cat_9 device supports carrier aggregation.",
+    "source": "spec Rel-17",
+    "rank": 2,
+    "pramana": "sabda"
+  },
+  {
+    "id": "P3",
+    "text": "Test log: device d1 (category cat_9) supports carrier aggregation. Device d2 (category cat_9) supports carrier aggregation. Device d3 (category cat_4) does not support carrier aggregation.",
+    "source": "lab test log",
+    "rank": 1,
+    "pramana": "pratyaksa"
+  }
+]

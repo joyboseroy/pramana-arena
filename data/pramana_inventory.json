@@ -1,0 +1,12 @@
+{
+  "_note": "Which means of knowledge each school accepts. Jain is listed at the finer grain of the Pariksamukha (pratyaksa plus the five subtypes of paroksa), so its distance from other schools is partly a granularity effect. Check each entry against a primary source before publication.",
+  "carvaka": ["pratyaksa"],
+  "vaisesika": ["pratyaksa", "anumana"],
+  "buddhist_pramanavada": ["pratyaksa", "anumana"],
+  "samkhya": ["pratyaksa", "anumana", "sabda"],
+  "nyaya": ["pratyaksa", "anumana", "upamana", "sabda"],
+  "jain_pariksamukha": ["pratyaksa", "smrti", "pratyabhijnana", "tarka", "anumana", "agama"],
+  "prabhakara_mimamsa": ["pratyaksa", "anumana", "sabda", "upamana", "arthapatti"],
+  "bhatta_mimamsa": ["pratyaksa", "anumana", "sabda", "upamana", "arthapatti", "anupalabdhi"],
+  "advaita_vedanta": ["pratyaksa", "anumana", "sabda", "upamana", "arthapatti", "anupalabdhi"]
+}

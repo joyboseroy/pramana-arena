@@ -40,7 +40,7 @@ Current result: 4 of 13 cases diverge in stipulated mode, 5 in native mode. `exi
 
 ## What the first run shows
 
-The same inference goes in, and each school's criteria give a verdict. This is the whole result of the first run, so you do not need to run anything to read it. "n/a" means the engine abstains because the case lies outside its framework. The Carvaka column is a baseline (it rejects all inference), so it is left out of the divergence count. Rows marked * are cases where the schools disagree.
+The same inference goes in, and each school's criteria give a verdict. "n/a" means the engine abstains because the case lies outside its framework. The Carvaka column is a baseline (it rejects all inference), so it is left out of the divergence count. Rows marked * are cases where the schools disagree.
 
 **Stipulated mode (pure logic), 4 of 13 cases diverge**
 
@@ -81,13 +81,12 @@ These are outputs of a first, small encoding, not findings. Each verdict is only
 - Case annotations have a `confidence` field. Anything marked `disputed` or `needs-philological-check` should not be cited until a scholar has looked at it.
 - The nine-fold wheel numbering and the Nyaya treatment of viruddha (pervasion of the absence of the probandum, which differs slightly from Dignaga's cases 4 and 6) are modelling choices to verify.
 - Jain, Mimamsa, Vedanta and Vaisesika are thin. The Jain annotations are the most hand-made.
-- I recommend a Buddhist-epistemology scholar and a Navya-Nyaya reader review the encodings before any paper claim.
 
 ## Textual basis and citation status
 
 Not every rule is equally grounded, and the repo says so. docs/CITATIONS.md is a ledger that marks each modelling rule as verified, secondary or unverified, with the source. At present only a few Dharmakirti rules are checked against a text (the definition of a pramana through reliable action, and inference resting on invariable concomitance, both in the Pramanasiddhi chapter as translated by Nagatomi, 1957). The identity versus causation split, the three kinds of reason and the Nyaya, Navya-Nyaya and Jain rules still need passage pointers. None of the 13 cases has one yet.
 
-Citing the Pramanavarttika: chapter numbering differs between sources (Nagatomi's "Book I" is the Pramanasiddhi chapter, which most current sources number 2). Always give the chapter name, numbering system and edition. Details are in docs/CITATIONS.md.
+Citing the Pramanavarttika: chapter numbering differs between sources (Nagatomi's "Book I" is the Pramanasiddhi chapter, which most current sources number 2). Details are in docs/CITATIONS.md.
 
 ## Related work
 
@@ -97,7 +96,7 @@ Citing the Pramanavarttika: chapter numbering differs between sources (Nagatomi'
 - Sathish, "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya" (arXiv:2604.04937), with a repository also called pramana. It fine-tunes models on a Nyaya method, while this repo uses a rule-based checker over retrieved evidence. Different approach, overlapping vocabulary, so expect confusion in names.
 - Hayes and Gillon, "Introduction to Dharmakirti's theory of inference as presented in Pramanavarttika svopajnavrtti 1-10", Journal of Indian Philosophy 19 (1991). This is the main secondary source to check the Dharmakirti engine against.
 
-What this repo adds: one shared case set run through several schools' criteria, with a switch that separates disagreement about logic from disagreement about what exists, and the use of those criteria as a swappable checker for retrieved answers. Check that claim against the literature before publishing.
+What this repo adds: one shared case set run through several schools' criteria, with a switch that separates disagreement about logic from disagreement about what exists, and the use of those criteria as a swappable checker for retrieved answers. 
 
 ## Contributing
 

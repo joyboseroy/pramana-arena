@@ -105,7 +105,7 @@ The most useful contribution is a case with a passage pointer: add an entry to d
 
 ## Licence
 
-Not chosen yet. Pick one before publishing (for example MIT for code and CC BY for data/cases.json), and do not commit copyrighted texts or the Nagatomi thesis PDF.
+MIT
 
 ## Roadmap
 

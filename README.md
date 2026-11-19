@@ -97,7 +97,7 @@ Citing the Pramanavarttika: chapter numbering differs between sources (Nagatomi'
 - Sathish, "Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya" (arXiv:2604.04937), with a repository also called pramana. It fine-tunes models on a Nyaya method, while this repo uses a rule-based checker over retrieved evidence. Different approach, overlapping vocabulary, so expect confusion in names.
 - Hayes and Gillon, "Introduction to Dharmakirti's theory of inference as presented in Pramanavarttika svopajnavrtti 1-10", Journal of Indian Philosophy 19 (1991). This is the main secondary source to check the Dharmakirti engine against.
 
-What this repo adds, as far as I found: one shared case set run through several schools' criteria, with a switch that separates disagreement about logic from disagreement about what exists, and the use of those criteria as a swappable checker for retrieved answers. Check that claim against the literature before publishing.
+What this repo adds: one shared case set run through several schools' criteria, with a switch that separates disagreement about logic from disagreement about what exists, and the use of those criteria as a swappable checker for retrieved answers. Check that claim against the literature before publishing.
 
 ## Contributing
 
